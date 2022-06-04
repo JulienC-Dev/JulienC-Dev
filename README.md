@@ -1,6 +1,6 @@
 # Hey 👋, I'm Julien !
 
-Hi there, I'm Julien, a junior python developer from Paris, France.
+🐍 Hi there, I'm Julien, a junior python developer from Paris, France.
 
 
 **About Me!**
