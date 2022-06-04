@@ -11,7 +11,7 @@ Hi there, I'm Julien, a junior python developer from Paris, France.
 
 * 👨‍💻 2022 Goals: Create a full App with REACT front end and Django Rest Back end.
 
-* 📫 if you want to reach out, you can email me
+* 📫 if you want to reach out, you can [email me](mailto:julien.cormier@yahoo.fr)
 
 ## Languages and Tools:
 
